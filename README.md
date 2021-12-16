@@ -15,6 +15,6 @@ For this project I was interested in conducting exploratory data analysis using 
 ## File Description
 There is one jupyter notebook available here to showcase my work related to the questions posed.
 ## Medium Blog Post
-The main findings can be found at the Medium Blog post available [here]
+The main findings can be found at the Medium Blog post available [here](https://medium.com/@ksheerjaseth0502/a32917faba19).
 ## Acknowledgments
 Acknoledgment should go to [Kaggle](https://www.kaggle.com/).These ratings in the dataset were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website: [Flavors of Cacao](http://flavorsofcacao.com/index.html).
